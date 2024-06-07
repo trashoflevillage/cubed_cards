@@ -2,9 +2,7 @@
 	"required": true,
 	"package": "io.github.trashoflevillage.cubed_cards.mixin",
 	"compatibilityLevel": "JAVA_21",
-	"mixins": [
-		"ExampleMixin"
-	],
+	"mixins": [],
 	"injectors": {
 		"defaultRequire": 1
 	}

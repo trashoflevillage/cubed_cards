@@ -1,0 +1,7 @@
+
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cubed_cards:item/card_great_sludge"
+  }
+}

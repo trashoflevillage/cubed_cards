@@ -1,0 +1,59 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "cubed_cards:common_cards",
+          "expand": true
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "cubed_cards:rare_cards",
+          "expand": true
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "cubed_cards:common_cards",
+          "expand": true,
+          "weight": 70
+        },
+        {
+          "type": "minecraft:tag",
+          "name": "cubed_cards:super_rare_cards",
+          "expand": true,
+          "weight": 30
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "cubed_cards:common_cards",
+          "expand": true,
+          "weight": 90
+        },
+        {
+          "type": "minecraft:tag",
+          "name": "cubed_cards:legendary_cards",
+          "expand": true,
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}

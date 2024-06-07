@@ -1,0 +1,20 @@
+{
+  "item.cubed_cards.pack": "Card Pack",
+  "item.cubed_cards.card_binder": "Card Binder",
+  "item.cubed_cards.card_creeper": "Creeper",
+  "item.cubed_cards.card_zombie": "Zombie",
+  "item.cubed_cards.card_skeleton": "Skeleton",
+  "item.cubed_cards.card_spider": "Spider",
+  "item.cubed_cards.card_piglin": "Piglin",
+  "item.cubed_cards.card_cyborg_zombie": "Cyborg Zombie",
+  "item.cubed_cards.card_great_sludge": "The Great Sludge",
+  "itemgroup.cards": "Cubed Cards",
+  "cardrarity.common": "§a§lCOMMON",
+  "cardrarity.rare": "§b§lRARE",
+  "cardrarity.super_rare": "§d§lSUPER RARE",
+  "cardrarity.legendary": "§6§lLEGENDARY",
+  "tag.item.cubed_cards.common_cards": "common_cards",
+  "tag.item.cubed_cards.rare_cards": "rare_cards",
+  "tag.item.cubed_cards.super_rare_cards": "super_rare_cards",
+  "tag.item.cubed_cards.legendary_cards": "legendary_cards"
+}

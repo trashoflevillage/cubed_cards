@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#cubed_cards:common_cards",
+    "#cubed_cards:rare_cards",
+    "#cubed_cards:super_rare_cards",
+    "#cubed_cards:legendary_cards"
+  ]
+}
